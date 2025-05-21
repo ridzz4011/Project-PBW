@@ -6,8 +6,8 @@
 
 <hr><width="100" height="75">
 
-    <center><b style="font-family: 'Courier New', Courier, monospace; font-size: 50px;">HOTEL <span style="color: blue">HEBAT</span></b></center><br>
-    <center><b>Jl. Otto Iskandardinata, Kabupaten Garut, Jawa Barat<b></center><br>
+    <center><b style="font-family: 'Courier New', Courier, monospace; font-size: 50px; color: blue;">LUX <span style="color:white;">HOTEL</span></b></center><br>
+    <center><b>Jl. HS.Ronggo Waluyo, Puseurjaya, Telukjambe Timur, Karawang, Jawa Barat 41361<b></center><br>
 
 <hr><width="100" height="75">
 

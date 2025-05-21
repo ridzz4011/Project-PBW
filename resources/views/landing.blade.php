@@ -7,9 +7,9 @@
 				<div class="container">
 					<div class="banner_content text-center">
 						<h6>Away from monotonous life</h6>
-						<h2>Hotel </h2>
-						<p>Hotel bersih, aman, nyaman, sehat<br> Harga yang terjangkau anda dapat menginap disini</p>
-						<a href="#types" class="btn theme_btn button_hover">Get Started</a>
+						<h2>Lux Hotel</h2>
+						<p>Penginapan bersih, aman, nyaman, sehat<br> Harga yang terjangkau anda dapat menginap disini</p>
+						<a href="#types" class="btn theme_btn button_hover">Book Sekarang</a>
 					</div>
 				</div>
             </div>
@@ -19,7 +19,7 @@
                         <div class="col-md-12">
                             <center>
 
-                                <h2>Enjoy Your<br> Holiday With Us</h2>
+                                <h2>Kami tidak pernah meragukan tamu<br> Meski permintaannya aneh-aneh</h2>
                             </center>
                         </div>
 
@@ -67,7 +67,7 @@
             <div class="container">
                 <div class="section_title text-center">
                     <h2 class="title_w">Hotel Facilities</h2>
-                    <p>Who are in extremely love with eco friendly system.</p>
+                    <p>Fasilitas terbaik untuk mengakomodir kebutuhan anda!</p>
                 </div>
                 <div class="row mb_30">
                     @foreach ($hotelFacilities as $item)

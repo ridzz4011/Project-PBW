@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Bukti Pembayaran Hotel Hebat</title>
+    <title>Struk Pembayaran Lux Hotel</title>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
@@ -14,9 +14,9 @@
             <div class="card">
                 <div class="card-body">
                     <hr>
-                <h3 class="text text-primary fw-bold">HOTEL HEBAT</h3>
+                <h3 class="text text-primary fw-bold">LUX HOTEL</h3>
                 <h6>Payment Receipt</h6>
-                <p>Jl. Mana aja No 07 California 177854 (+1) 234-1233</p>
+                <p>Jl. HS.Ronggo Waluyo, Puseurjaya, Telukjambe Timur, Karawang, Jawa Barat 41361</p>
                 <hr>
                     <div class="row">
                         <h6 class="card-subtitle mb-2 col-6">Transaction ID</h6>
