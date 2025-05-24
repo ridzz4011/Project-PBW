@@ -4,7 +4,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="image/favicon.png" type="image/png">
+        <link rel="icon" href="{{ asset('images/logo.png')}}">
         <title>Lux Hotel</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="{{ asset('template/vendors/linericon/style.css') }}">
@@ -86,18 +86,19 @@
                     <div class="col-lg-4  col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About Agency</h6>
-                            <p>The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point </p>
+                            <p>
+                                Lux Group adalah perusahaan multinasional yang bergerak di bidang pariwisata dan hiburan, didirikan pada tahun 1970 oleh Joko Salim. Sejak awal berdirinya, Lux Group berkomitmen untuk menghadirkan layanan dan pengalaman terbaik dalam industri hospitality, mulai dari penginapan, rekreasi, hingga layanan perjalanan kelas dunia.
+                            </p>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-footer-widget">
-                            <h6 class="footer_title">Newsletter</h6>
-                            <p>For business professionals caught between high OEM price and mediocre print and graphic output, </p>
-                            <div id="mc_embed_signup">
-
-                            </div>
-                        </div>
+                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <!-- Links -->
+                        <h6 class="footer_title">Contact</h6>
+                        <p><i class="fas fa-home mr-3"></i> Telukjambe Timur, Karawang, Jawa Barat 41361</p>
+                        <p><i class="fas fa-envelope mr-3"></i> info@lux.com</p>
+                        <p><i class="fas fa-phone mr-3"></i> + 62 0812-1234-5678</p>
+                        <p><i class="fas fa-print mr-3"></i> + 62 0812-1344-9827</p>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget instafeed">

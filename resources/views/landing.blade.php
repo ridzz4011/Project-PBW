@@ -92,7 +92,22 @@
                     <div class="col-md-6 d_flex align-items-center">
                         <div class="about_content ">
                             <h2 class="title title_color">About Us</h2>
-                            <p>Modern accommodations, topped off with an infusion of rustic charm and a residential feel. Combining comfort and functionality, simple’s design concept uses warm, rich colors to offer comfort in every room.  Accents of warm autumnal fabrics and soft orange hues promote relaxation like spiced pumpkin, tangerine and amber, while modern grays create an understated cool elegance.</p>
+                            <p>
+                                Didirikan pada tahun 1986 oleh <b>Lux Group</b>, Lux Hotel
+                                hadir sebagai tempat penginapan yang memadukan kenyamanan
+                                modern dengan sentuhan tropis dan nuansa tradisional
+                                khas Indonesia. Dengan pengalaman lebih dari tiga dekade
+                                di industri perhotelan, Lux Hotel terus berkomitmen untuk
+                                memberikan pelayanan terbaik bagi setiap tamu yang datang,
+                                baik untuk urusan bisnis maupun liburan.
+                                <br>
+                                <br>
+                                Kami percaya bahwa kenyamanan bukan hanya tentang tempat,
+                                tetapi juga tentang pelayanan dan suasana. Oleh karena itu,
+                                Lux Hotel selalu berinovasi untuk menjawab kebutuhan
+                                tamu dengan layanan yang profesional dan fasilitas yang
+                                terus diperbaharui.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6">

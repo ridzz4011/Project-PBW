@@ -48,7 +48,7 @@
             <div class="form-group">
                 <label for="status">Status</label>
                 <select name="status" id="status" class="form-control @error('status') is-invalid @enderror" value="{{ old('status') }}" required autocomplete="status" autofocus>
-                    <option {{ $data->status == "a" ? 'selected' : ''}} value="a">Available</option>
+                    <option {{ $data->status == "v" ? 'selected' : ''}} value="v">Available</option>
                     <option {{ $data->status == "r" ? 'selected' : ''}} value="r">Reserve</option>
                     <option {{ $data->status == "o" ? 'selected' : ''}} value="o">Occupied</option>
                     <option {{ $data->status == "os" ? 'selected' : ''}} value="os">Out of Service</option>

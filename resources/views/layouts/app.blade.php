@@ -7,7 +7,9 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ 'Hotel Hebat' }}</title>
+    <title>{{ 'Lux Hotel' }}</title>
+
+    <link rel="icon" href="{{ asset('images/logo.png')}}">
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -67,9 +69,6 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="{{ route('receptionis.checkin') }}">{{ __('Check In') }}</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('receptionis.checkin.pdata') }}">{{ __('Check In with Personal Data') }}</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="{{ route('receptionis.reservations') }}">{{ __('Reservations') }}</a>
